@@ -1,0 +1,218 @@
+leg_id,full_name,first_name,middle_name,last_name,suffixes,nickname,active,state,chamber,district,party,photo_url,created_at,updated_at
+VAL000002,Harry B Blevins,Harry,B,Blevins,,,False,va,,,,http://sov.state.va.us/images/Blevins14.jpg,2010-12-02 07:04:38.281000,2013-12-02 15:17:10.976000
+VAL000003,Charles J Colgan,Charles,J,Colgan,,,False,va,,,,http://sov.state.va.us/images/Colgan29.jpg,2010-12-02 07:04:38.283000,2016-01-05 21:07:14.010000
+VAL000007,Mark R Herring,Mark,R,Herring,,,False,va,,,,http://sov.state.va.us/images/Herring33.jpg,2010-12-02 07:04:38.292000,2014-01-28 14:51:48.159000
+VAL000008,R. Edward Houck,R. Edward,,Houck,,,False,va,,,,http://sov.state.va.us/images/Houck17.jpg,2010-12-02 07:04:38.294000,2012-01-16 21:13:31.013000
+VAL000010,Robert Hurt,Robert,,Hurt,,,False,va,,,,,2010-12-02 07:04:38.298000,2012-01-16 21:13:31.009000
+VAL000014,Henry L Marsh III,Henry,L,Marsh,III,,False,va,,,,http://apps.lis.virginia.gov/senatepics/Marsh16.jpg,2010-12-02 07:04:38.306000,2014-07-28 19:16:46.557000
+VAL000015,Stephen H Martin,Stephen,H,Martin,,,False,va,,,,http://sov.state.va.us/images/Martin11.jpg,2010-12-02 07:04:38.308000,2016-01-05 21:07:14.003000
+VAL000017,A. Donald McEachin,Donald,,McEachin,,,False,va,,,,http://sov.state.va.us/images/McEachin09.jpg,2010-12-02 07:04:38.322000,2017-03-11 23:07:44.307000
+VAL000018,Jeffrey L McWaters,Jeffrey,L,McWaters,,,False,va,,,,http://sov.state.va.us/images/McWaters08.jpg,2010-12-02 07:04:38.324000,2016-01-05 21:07:14.015000
+VAL000019,John C. Miller (Deceased),John C. Miller,,(Deceased),,,False,va,,,,http://apps.lis.virginia.gov/senatepics/newbiopics/,2010-12-02 07:04:38.326000,2016-05-06 08:07:19.782000
+VAL000020,Yvonne B Miller,Yvonne,B,Miller,,,False,va,,,,http://sov.state.va.us/images/Miller05.jpg,2010-12-02 07:04:38.328000,2013-01-04 14:48:33.005000
+VAL000023,Ralph S Northam,Ralph,S,Northam,,,False,va,,,,http://sov.state.va.us/images/Northam06.jpg,2010-12-02 07:04:38.334000,2014-01-29 14:41:32.178000
+VAL000026,Phillip P Puckett,Phillip,P,Puckett,,,False,va,,,,http://sov.state.va.us/images/Puckett38.jpg,2010-12-02 07:04:38.354000,2014-07-28 19:17:59.869000
+VAL000027,Linda T Puller,Linda,T,Puller,,Toddy,False,va,,,,http://sov.state.va.us/images/Puller36.jpg,2010-12-02 07:04:38.356000,2016-01-05 21:07:14.013000
+VAL000028,Frederick M Quayle,Frederick,M,Quayle,,,False,va,,,,http://sov.state.va.us/images/Quayle13.jpg,2010-12-02 07:04:38.358000,2012-01-16 21:13:31.015000
+VAL000029,W. Roscoe Reynolds,W. Roscoe,,Reynolds,,,False,va,,,,http://sov.state.va.us/images/Reynolds20.jpg,2010-12-02 07:04:38.360000,2012-01-16 21:13:31.017000
+VAL000032,Ralph K. Smith,Ralph,K,Smith,,,False,va,,,,http://apps.lis.virginia.gov/senatepics/Smith22.jpg,2010-12-02 07:04:38.366000,2016-01-05 21:07:14.008000
+VAL000033,Walter A Stosch,Walter,A,Stosch,,,False,va,,,,http://sov.state.va.us/images/Stosch12.jpg,2010-12-02 07:04:38.368000,2016-01-05 21:07:14.006000
+VAL000035,Patricia S Ticer,Patricia,S,Ticer,,,False,va,,,,http://sov.state.va.us/images/Ticer30.jpg,2010-12-02 07:04:38.372000,2012-01-16 21:13:31.021000
+VAL000038,William C Wampler Jr.,William,C,Wampler,Jr.,,False,va,,,,http://sov.state.va.us/images/Wampler40.jpg,2010-12-02 07:04:38.378000,2012-01-16 21:13:31.023000
+VAL000039,John C Watkins,John,C,Watkins,,,False,va,,,,http://sov.state.va.us/images/Watkins10.jpg,2010-12-02 07:04:38.380000,2016-01-05 21:07:14.001000
+VAL000040,Mary Margaret Whipple,Mary Margaret,,Whipple,,,False,va,,,,http://sov.state.va.us/images/Whipple31.jpg,2010-12-02 07:04:38.382000,2012-01-16 21:13:31.026000
+VAL000041,Watkins M Abbitt Jr.,Watkins,M,Abbitt,Jr.,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/daac5204668f219b85257535005773e1/Photo/0.98?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.384000,2012-01-16 21:13:30.979000
+VAL000042,Robin A Abbott,Robin,A,Abbott,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/d9700796f3b84d948525753500577405/Photo/0.84?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.386000,2012-01-16 21:13:30.973000
+VAL000044,Kenneth C Alexander,Kenneth,C,Alexander,,,False,va,,,,http://apps.lis.virginia.gov/senatepics/KAlexanderBW.jpg,2010-12-02 07:04:38.390000,2017-03-10 03:17:15.805000
+VAL000046,Ward L Armstrong,Ward,L,Armstrong,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/9584e38675b906a185257535005773b7/Photo/0.84?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.393000,2012-01-16 21:13:30.981000
+VAL000047,Clifford L Athey Jr.,Clifford,L,Athey,Jr.,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/e3697acb5338c5d985257535005773c3/Photo/0.98?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.395000,2012-01-16 21:13:30.984000
+VAL000048,Mamye E BaCote,Mamye,E,BaCote,,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/95.jpg,2010-12-02 07:04:38.397000,2016-01-05 21:07:13.999000
+VAL000049,William K Barlow,William,K,Barlow,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/45add60b5c702a8985257535005773e8/Photo/0.98?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.399000,2012-01-16 21:13:30.986000
+VAL000052,Robert H Brink,Robert,H,Brink,,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/48.jpg,2010-12-02 07:04:38.412000,2014-07-28 19:19:09.651000
+VAL000057,William H Cleaveland,William,H,Cleaveland,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/e73709ad6cb531b385257535005773ab/Photo/0.84?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.421000,2012-01-16 21:13:30.990000
+VAL000060,Barbara J Comstock,Barbara,J,Comstock,,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/34.jpg,2010-12-02 07:04:38.427000,2015-05-19 15:59:25.720000
+VAL000062,John A Cox,John,A,Cox,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/d76539cf75028eeb85257535005773e2/Photo/0.84?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.431000,2014-01-06 17:55:43.734000
+VAL000064,Anne B Crockett-Stark,Anne,B,Crockett-Stark,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/658cfa3b8e107e1885257535005773bb/Photo/0.84?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.435000,2014-01-06 17:43:29.900000
+VAL000068,David L Englin,David,L,Englin,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/97ec7f4306b4197d85257535005773dc/Photo/0.84?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.458000,2013-01-04 14:55:53.534000
+VAL000071,Thomas D Gear,Thomas,D,Gear,,,False,va,,,,,2010-12-02 07:04:38.463000,2012-01-16 21:13:30.962000
+VAL000075,H. Morgan Griffith,H. Morgan,,Griffith,,,False,va,,,,,2010-12-02 07:04:38.480000,2012-01-16 21:13:30.964000
+VAL000078,Algie T Howell Jr.,Algie,T,Howell,Jr.,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/90.jpg,2010-12-02 07:04:38.486000,2014-07-28 19:18:48.208000
+VAL000081,Salvatore R Iaquinto,Salvatore,R,Iaquinto,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/e373c58ea3d58a8585257535005773fe/Photo/0.84?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.491000,2014-01-06 18:01:56.969000
+VAL000083,Bill Janis,William,R,Janis,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/4cff5add5ec440fb85257535005773e4/Photo/0.84?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.495000,2012-01-16 21:13:30.967000
+VAL000084,Johnny S Joannou,Johnny,S,Joannou,,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/79.jpg,2010-12-02 07:04:38.497000,2016-01-05 21:07:13.990000
+VAL000085,Joseph P Johnson Jr.,Joseph,P,Johnson,Jr.,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/25a4813577b8024785257535005773bc/Photo/0.84?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.499000,2014-01-06 17:41:41.169000
+VAL000095,Matthew Lohr,Matthew,,Lohr,,,False,va,,,,,2010-12-02 07:04:38.518000,2012-01-16 21:13:30.969000
+VAL000100,Joe T May,Joe,T,May,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/a5641efbfb03ca9885257535005773d1/Photo/0.98?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.527000,2014-01-06 17:52:45.080000
+VAL000101,Jennifer L McClellan,Jennifer,L,McClellan,,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/71.jpg,2010-12-02 07:04:38.529000,2017-03-10 03:28:58.020000
+VAL000103,Donald W Merricks,Donald,W,Merricks,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/b08dd4902866eba285257535005773be/Photo/0.84?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.533000,2014-01-06 17:45:00.318000
+VAL000105,Paula J Miller,Paula,J,Miller,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/b992dd6f4701ceec85257535005773fd/Photo/0.84?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.536000,2012-01-16 21:13:30.975000
+VAL000107,Harvey B Morgan,Harvey,B,Morgan,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/929cb0f986db20cb8525753500577407/Photo/0.84?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.540000,2012-01-16 21:13:30.994000
+VAL000108,Joseph D Morrissey,Joseph,D,Morrissey,,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/74.jpg,2010-12-02 07:04:38.542000,2015-03-27 22:05:11.162000
+VAL000109,Sam A Nixon,Sam,A,Nixon,,,False,va,,,,,2010-12-02 07:04:38.544000,2012-01-16 21:13:30.971000
+VAL000110,David A Nutter,David,A,Nutter,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/80484636498e4e7285257535005773bd/Photo/0.98?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.546000,2012-01-16 21:13:30.996000
+VAL000112,G. Glenn Oder,G. Glenn,,Oder,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/e3387958e627dae48525753500577406/Photo/0.98?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.549000,2012-01-16 21:13:31.004000
+VAL000115,Clarence E Phillips,Clarence,E,Phillips,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/a746edfb7faf3e5285257535005773b5/Photo/0.98?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.555000,2012-01-16 21:13:30.998000
+VAL000119,Albert C Pollard Jr.,Albert,C,Pollard,Jr.,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/d78ea0b87da02bcc8525753500577408/Photo/0.84?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.573000,2012-01-16 21:13:30.977000
+VAL000120,Harry R Purkey,Harry,R,Purkey,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/aebaa9655ed9be9785257535005773ff/Photo/0.98?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.574000,2014-01-06 17:59:10.249000
+VAL000121,Lacey E Putney,Lacey,E,Putney,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/22cda1b7096ae30685257535005773ca?OpenDocument,2010-12-02 07:04:38.576000,2014-01-06 17:48:56.570000
+VAL000123,Thomas Davis Rust,Thomas,Davis,Rust,,Tom,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/86.jpg,2010-12-02 07:04:38.580000,2016-01-05 21:07:13.995000
+VAL000124,Edward T Scott,Edward,T,Scott,,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/30.jpg,2010-12-02 07:04:38.582000,2016-01-05 21:07:13.983000
+VAL000125,James M Scott,James,M,Scott,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/23faca12e986ed2b85257535005773e6/Photo/0.84?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.584000,2014-01-06 17:54:12.448000
+VAL000126,Beverly J Sherwood,Beverly,J,Sherwood,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/80f9a250e7a92ba285257535005773cb/Photo/0.84?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.585000,2014-01-06 17:51:04.943000
+VAL000127,James M Shuler,James,M,Shuler,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/eebbc77545ec327985257535005773c2/Photo/0.98?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.587000,2012-01-16 21:13:31
+VAL000129,Lionell Spruill Sr.,Lionell,,Spruill,Sr.,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/77.jpg,2010-12-02 07:04:38.591000,2017-03-10 03:30:26.706000
+VAL000131,Scott A Surovell,Scott,A,Surovell,,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/44.jpg,2010-12-02 07:04:38.595000,2016-01-05 21:07:13.985000
+VAL000132,Robert Tata,Robert,,Tata,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/2ce9ef92cc29512a8525753500577400/Photo/0.84?OpenElement&FieldElemFormat=jpg,2010-12-02 07:04:38.597000,2014-01-06 18:02:59.707000
+VAL000138,Onzlee Ware,Onzlee,,Ware,,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/11.jpg,2010-12-02 07:04:38.618000,2014-01-08 16:57:50.645000
+VAL000152,Thomas A. Garrett,Thomas A.,,Garrett,,,False,va,,,,http://apps.lis.virginia.gov/senatepics/Garrett22.jpg,2012-01-16 21:13:29.219000,2017-03-10 03:15:30.831000
+VAL000165,David I. Ramadan,David I.,,Ramadan,,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/87.jpg,2012-01-16 21:13:30.234000,2016-01-05 21:07:13.997000
+VAL000168,Michael B. Watson,Michael B.,,Watson,,,False,va,,,,http://dela.state.va.us/dela/MemBios.nsf/a7b082ef6ed01eac85256c0d00515644/d9700796f3b84d948525753500577405/Photo/0.84?OpenElement&FieldElemFormat=jpg,2012-01-16 21:13:30.491000,2014-01-06 18:04:13.059000
+VAL000176,K. Rob Krupicka,K. Rob,,Krupicka,,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/45.jpg,2013-01-03 19:31:39.081000,2016-01-05 21:07:13.987000
+VAL000180,Mark J. Berg,Mark J.,,Berg,,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/29.jpg,2013-11-26 23:00:40.241000,2016-01-05 21:07:13.981000
+VAL000184,"Bill R. DeSteph, Jr.",Bill,R.,DeSteph,Jr.,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/82.jpg,2013-11-26 23:00:40.355000,2016-01-05 21:07:13.992000
+VAL000186,Michael T. Futrell,Michael T.,,Futrell,,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/2.jpg,2013-11-26 23:00:40.394000,2016-01-05 21:07:13.978000
+VAL000190,T. Monty Mason,"T. Montgomery ""Monty""",,Mason,,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/93.jpg,2013-11-26 23:00:40.605000,2017-03-10 03:26:57.665000
+VAL000192,Scott W. Taylor,Scott W.,,Taylor,,,False,va,,,,http://virginiageneralassembly.gov/house/members/photos/85.jpg,2013-11-26 23:00:40.865000,2017-03-10 03:25:13.363000
+VAL000223,Joseph E. Preston,Joseph E.,,Preston,,,False,va,,,,http://memdata.virginiageneralassembly.gov/images/display_image/H272,2015-01-08 20:18:15.877000,2016-01-05 21:07:13.989000
+VAL000232,"Henry L. Marsh, III",Henry,L.,Marsh,III,,False,va,,,,,2015-11-19 09:05:09.525000,2015-12-14 17:24:24.760000
+VAL000233,Phillip P. Puckett,Phillip,P.,Puckett,,,False,va,,,,,2015-11-19 09:05:09.543000,2015-12-14 16:54:25.950000
+VAL000043,David B Albo,David,B,Albo,,,True,va,lower,42,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0002,2010-12-02 07:04:38.388000,2017-06-01 08:03:03.658000
+VAL000045,Richard L Anderson,Richard,L,Anderson,,,True,va,lower,51,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0210,2010-12-02 07:04:38.392000,2017-06-01 08:03:03.054000
+VAL000050,Richard P Bell,Richard,P,Bell,,,True,va,lower,20,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0211,2010-12-02 07:04:38.401000,2017-06-01 08:03:03.765000
+VAL000051,Robert B Bell,Robert,B,Bell,,,True,va,lower,58,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0139,2010-12-02 07:04:38.411000,2017-06-01 08:03:03.444000
+VAL000053,David L Bulova,David,L,Bulova,,,True,va,lower,37,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0177,2010-12-02 07:04:38.414000,2017-06-01 08:03:03.728000
+VAL000054,Kathy J Byron,Kathy,J,Byron,,,True,va,lower,22,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0115,2010-12-02 07:04:38.416000,2017-06-01 08:03:03.419000
+VAL000055,Betsy B Carr,Betsy,B,Carr,,,True,va,lower,69,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0212,2010-12-02 07:04:38.418000,2017-06-01 08:03:03.508000
+VAL000058,Benjamin L Cline,Benjamin,L,Cline,,,True,va,lower,24,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0161,2010-12-02 07:04:38.423000,2017-06-01 08:03:03.460000
+VAL000059,Mark L Cole,Mark,L,Cole,,,True,va,lower,88,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0142,2010-12-02 07:04:38.425000,2017-06-01 08:03:03.777000
+VAL000063,M. Kirkland Cox,M. Kirkland,,Cox,,,True,va,lower,66,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0021,2010-12-02 07:04:38.433000,2017-06-01 08:03:03.519000
+VAL000067,James E Edmunds II,James,E,Edmunds,II,,True,va,lower,60,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0216,2010-12-02 07:04:38.456000,2017-06-01 08:03:03.719000
+VAL000069,Eileen Filler-Corn,Eileen,,Filler-Corn,,,True,va,lower,41,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0229,2010-12-02 07:04:38.459000,2017-06-01 08:03:03.435000
+VAL000070,T. Scott Garrett,T. Scott,,Garrett,,,True,va,lower,23,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0217,2010-12-02 07:04:38.461000,2017-06-01 08:03:03.295000
+VAL000072,C. Todd Gilbert,C. Todd,,Gilbert,,,True,va,lower,15,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0181,2010-12-02 07:04:38.465000,2017-06-01 08:03:03.265000
+VAL000073,Matthew James,Matthew,,James,,,True,va,lower,80,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0220,2010-12-02 07:04:38.467000,2017-06-01 08:03:03.717000
+VAL000074,Thomas A Greason,Thomas,A,Greason,,,True,va,lower,32,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0218,2010-12-02 07:04:38.478000,2017-06-01 08:03:03.755000
+VAL000076,Charniele L Herring,Charniele,L,Herring,,,True,va,lower,46,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0208,2010-12-02 07:04:38.482000,2017-06-01 08:03:03.252000
+VAL000077,Patrick A Hope,Patrick,A,Hope,,,True,va,lower,47,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0219,2010-12-02 07:04:38.484000,2017-06-01 08:03:03.274000
+VAL000079,William J Howell,William,J,Howell,,,True,va,lower,28,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0046,2010-12-02 07:04:38.487000,2017-06-01 08:03:03.510000
+VAL000080,Timothy D Hugo,Timothy,D,Hugo,,,True,va,lower,40,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0162,2010-12-02 07:04:38.489000,2017-06-01 08:03:03.625000
+VAL000082,Riley E Ingram,Riley,E,Ingram,,,True,va,lower,62,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0048,2010-12-02 07:04:38.493000,2017-06-01 08:03:03.637000
+VAL000086,S. Chris Jones,S. Chris,,Jones,,,True,va,lower,76,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0120,2010-12-02 07:04:38.501000,2017-06-01 08:03:03.632000
+VAL000087,Mark L Keam,Mark,L,Keam,,,True,va,lower,35,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0221,2010-12-02 07:04:38.502000,2017-06-01 08:03:03.759000
+VAL000088,Terry G. Kilgore,Terry G.,,Kilgore,,,True,va,lower,1,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0056,2010-12-02 07:04:38.504000,2017-06-01 08:03:03.521000
+VAL000089,Barry D Knight,Barry,D,Knight,,,True,va,lower,81,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0206,2010-12-02 07:04:38.506000,2017-06-01 08:03:03.679000
+VAL000090,Kaye Kory,Kaye,,Kory,,,True,va,lower,38,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0222,2010-12-02 07:04:38.508000,2017-06-01 08:03:03.417000
+VAL000091,R. Steven Landes,R. Steven,,Landes,,,True,va,lower,25,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0104,2010-12-02 07:04:38.510000,2017-06-01 08:03:03.781000
+VAL000092,James M LeMunyon,James,M,LeMunyon,,,True,va,lower,67,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0223,2010-12-02 07:04:38.512000,2017-06-01 08:03:03.752000
+VAL000094,L. Scott Lingamfelter,L. Scott,,Lingamfelter,,,True,va,lower,31,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0148,2010-12-02 07:04:38.516000,2017-06-01 08:03:03.748000
+VAL000096,G. Manoli Loupassi,G. Manoli,,Loupassi,,,True,va,lower,68,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0197,2010-12-02 07:04:38.519000,2017-06-01 08:03:03.415000
+VAL000097,"Daniel W. Marshall, III",Daniel W.,,Marshall,III,,True,va,lower,14,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0150,2010-12-02 07:04:38.521000,2017-06-01 08:03:03.698000
+VAL000098,Robert G. Marshall,Robert G.,,Marshall,,,True,va,lower,13,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0057,2010-12-02 07:04:38.523000,2017-06-01 08:03:03.392000
+VAL000099,James P Massie III,James,P,Massie,III,Jimmie,True,va,lower,72,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0198,2010-12-02 07:04:38.525000,2017-06-01 08:03:03.739000
+VAL000102,Delores L McQuinn,Delores,L,McQuinn,,,True,va,lower,70,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0207,2010-12-02 07:04:38.531000,2017-06-01 08:03:03.040000
+VAL000104,Jackson H Miller,Jackson,H,Miller,,,True,va,lower,50,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0195,2010-12-02 07:04:38.535000,2017-06-01 08:03:03.706000
+VAL000106,James W. Morefield,James W.,,Morefield,,,True,va,lower,3,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0224,2010-12-02 07:04:38.538000,2017-06-01 08:03:03.689000
+VAL000111,John M O'Bannon III,John,M,O'Bannon,III,,True,va,lower,73,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0134,2010-12-02 07:04:38.548000,2017-06-01 08:03:03.646000
+VAL000113,Robert D Orrock Sr.,Robert,D,Orrock,Sr.,,True,va,lower,54,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0073,2010-12-02 07:04:38.551000,2017-06-01 08:03:03.704000
+VAL000114,Christopher K Peace,Christopher,K,Peace,,,True,va,lower,97,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0194,2010-12-02 07:04:38.553000,2017-06-01 08:03:03.283000
+VAL000116,Kenneth R Plum,Kenneth,R,Plum,,,True,va,lower,36,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0076,2010-12-02 07:04:38.557000,2017-06-01 08:03:03.709000
+VAL000117,Brenda L Pogge,Brenda,L,Pogge,,,True,va,lower,96,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0203,2010-12-02 07:04:38.569000,2017-06-01 08:03:03.774000
+VAL000118,Charles D. Poindexter,Charles D.,,Poindexter,,,True,va,lower,9,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0204,2010-12-02 07:04:38.571000,2017-06-01 08:03:03.713000
+VAL000122,Roxann L Robinson,Roxann,L,Robinson,,,True,va,lower,27,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0230,2010-12-02 07:04:38.578000,2017-06-01 08:03:03.769000
+VAL000128,Mark D. Sickles,Mark,D.,Sickles,,,True,va,lower,43,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0172,2010-12-02 07:04:38.589000,2017-06-01 08:03:03.622000
+VAL000130,Christopher P Stolle,Christopher,P,Stolle,,,True,va,lower,83,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0225,2010-12-02 07:04:38.593000,2017-06-01 08:03:03.314000
+VAL000133,Luke E Torian,Luke,E,Torian,,,True,va,lower,52,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0227,2010-12-02 07:04:38.599000,2017-06-01 08:03:03.695000
+VAL000134,David J Toscano,David,J,Toscano,,,True,va,lower,57,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0188,2010-12-02 07:04:38.610000,2017-06-01 08:03:03.530000
+VAL000135,Roslyn C Tyler,Roslyn,C,Tyler,,,True,va,lower,75,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0189,2010-12-02 07:04:38.612000,2017-06-01 08:03:03.763000
+VAL000136,Ronald A Villanueva,Ronald,A,Villanueva,,,True,va,lower,21,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0228,2010-12-02 07:04:38.614000,2017-06-01 08:03:03.424000
+VAL000137,Jeion A Ward,Jeion,A,Ward,,,True,va,lower,92,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0173,2010-12-02 07:04:38.616000,2017-06-01 08:03:03.524000
+VAL000139,R. Lee Ware Jr.,R. Lee,,Ware,,,True,va,lower,65,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0124,2010-12-02 07:04:38.620000,2017-06-01 08:03:03.702000
+VAL000140,Vivian E Watts,Vivian,E,Watts,,,True,va,lower,39,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0108,2010-12-02 07:04:38.622000,2017-06-01 08:03:03.363000
+VAL000141,Tony O. Wilt,Tony O.,,Wilt,,,True,va,lower,26,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0231,2010-12-02 07:04:38.623000,2017-06-01 08:03:03.677000
+VAL000142,Thomas C Wright Jr.,Thomas,C,Wright,Jr.,,True,va,lower,61,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0136,2010-12-02 07:04:38.625000,2017-06-01 08:03:03.672000
+VAL000144,Gregory D. Habeeb,Gregory D.,,Habeeb,,,True,va,lower,8,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0232,2011-01-20 01:35:12.613000,2017-06-01 08:03:03.513000
+VAL000146,Gordon C. Helsel Jr.,Gordon C.,,Helsel,Jr.,,True,va,lower,91,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0233,2011-03-16 06:37:04.152000,2017-06-01 08:03:03.318000
+VAL000156,L. Mark Dudenhefer,L. Mark,,Dudenhefer,,,True,va,lower,2,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0234,2012-01-16 21:13:29.693000,2017-06-01 08:03:03.779000
+VAL000157,C. Matt Fariss,C. Matthew,,Fariss,,,True,va,lower,59,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0235,2012-01-16 21:13:29.728000,2017-06-01 08:03:03.675000
+VAL000158,Peter F. Farrell,Peter F.,,Farrell,,,True,va,lower,56,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0236,2012-01-16 21:13:29.740000,2017-06-01 08:03:03.433000
+VAL000159,Christopher T. Head,Christopher T.,,Head,,,True,va,lower,17,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0237,2012-01-16 21:13:29.801000,2017-06-01 08:03:03.404000
+VAL000160,M. Keith Hodges,M. Keith,,Hodges,,,True,va,lower,98,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0238,2012-01-16 21:13:29.833000,2017-06-01 08:03:03.297000
+VAL000161,Alfonso H. Lopez,Alfonso H.,,Lopez,,,True,va,lower,49,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0239,2012-01-16 21:13:30.016000,2017-06-01 08:03:03.711000
+VAL000162,J. Randall Minchew,J. Randall,,Minchew,,,True,va,lower,10,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0240,2012-01-16 21:13:30.109000,2017-06-01 08:03:03.619000
+VAL000163,Rick L. Morris,Rick L.,,Morris,,,True,va,lower,64,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0241,2012-01-16 21:13:30.130000,2017-06-01 08:03:03.235000
+VAL000164,Israel D. O'Quinn,Israel D.,,O'Quinn,,,True,va,lower,5,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0242,2012-01-16 21:13:30.160000,2017-06-01 08:03:03.629000
+VAL000166,Margaret B. Ransone,Margaret B.,,Ransone,,,True,va,lower,99,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0244,2012-01-16 21:13:30.246000,2017-06-01 08:03:03.693000
+VAL000167,Nick Rush,Nick,,Rush,,,True,va,lower,7,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0245,2012-01-16 21:13:30.270000,2017-06-01 08:03:03.660000
+VAL000169,Michael J. Webert,Michael J.,,Webert,,,True,va,lower,18,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0247,2012-01-16 21:13:30.514000,2017-06-01 08:03:03.682000
+VAL000170,David E. Yancey,David E.,,Yancey,,,True,va,lower,94,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0248,2012-01-16 21:13:30.544000,2017-06-01 08:03:03.735000
+VAL000171,Joseph R. Yost,Joseph R.,,Yost,,,True,va,lower,12,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0249,2012-01-16 21:13:30.557000,2017-06-01 08:03:03.744000
+VAL000175,Daun S. Hester,Daun S.,,Hester,,,True,va,lower,89,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0251,2013-01-03 19:31:39.033000,2017-06-01 08:03:03.757000
+VAL000178,Les R. Adams,Les R.,,Adams,,,True,va,lower,16,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0252,2013-11-26 23:00:40.114000,2017-06-01 08:03:03.617000
+VAL000179,Terry L. Austin,Terry L.,,Austin,,,True,va,lower,19,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0253,2013-11-26 23:00:40.152000,2017-06-01 08:03:03.166000
+VAL000181,Jeffrey L. Campbell,Jeffrey L.,,Campbell,,,True,va,lower,6,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0255,2013-11-26 23:00:40.263000,2017-06-01 08:03:03.247000
+VAL000183,Glenn R. Davis,Glenn R.,,Davis,,,True,va,lower,84,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0257,2013-11-26 23:00:40.350000,2017-06-01 08:03:03.771000
+VAL000185,"Hyland F. ""Buddy"" Fowler","Hyland F. ""Buddy""",,Fowler,Jr.,,True,va,lower,55,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0259,2013-11-26 23:00:40.387000,2017-06-01 08:03:03.666000
+VAL000188,Dave A. LaRock,Dave A.,,LaRock,,,True,va,lower,33,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0261,2013-11-26 23:00:40.520000,2017-06-01 08:03:03.742000
+VAL000189,"James A. ""Jay"" Leftwich","James A. ""Jay""",,Leftwich,,,True,va,lower,78,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0262,2013-11-26 23:00:40.562000,2017-06-01 08:03:03.750000
+VAL000191,Marcus B. Simon,Marcus B.,,Simon,,,True,va,lower,53,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0264,2013-11-26 23:00:40.844000,2017-06-01 08:03:03.101000
+VAL000200,Sam Rasoul,Sam,,Rasoul,,,True,va,lower,11,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0266,2014-01-10 02:04:51.759000,2017-06-01 08:03:03.655000
+VAL000210,"Robert S. Bloxom, Jr.",Robert S.,,Bloxom,Jr.,,True,va,lower,100,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0267,2014-02-27 05:10:37.565000,2017-06-01 08:03:03.691000
+VAL000214,Joseph C. Lindsey,Joseph C.,,Lindsey,,,True,va,lower,90,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0268,2014-09-04 05:09:13.853000,2017-06-01 08:03:03.761000
+VAL000215,"Richard C. ""Rip"" Sullivan, Jr.","Richard C. ""Rip""",,Sullivan,Jr.,,True,va,lower,48,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0269,2014-09-04 05:09:14.041000,2017-06-01 08:03:03.700000
+VAL000222,Kathleen Murphy,Kathleen,,Murphy,,,True,va,lower,34,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0271,2015-01-08 20:18:15.456000,2017-06-01 08:03:03.653000
+VAL000224,Todd E. Pillion,Todd,E.,Pillion,,,True,va,lower,4,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0270,2015-01-08 20:18:15.907000,2017-06-01 08:03:03.206000
+VAL000227,Lamont Bagby,Lamont,,Bagby,,,True,va,lower,74,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0273,2015-07-23 04:55:22.891000,2017-06-01 08:03:03.746000
+VAL000234,Jennifer B. Boysko,Jennifer B.,,Boysko,,,True,va,lower,86,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0276,2016-01-08 16:25:11.301000,2017-06-01 08:03:03.662000
+VAL000235,Mark H. Levine,Mark H.,,Levine,,,True,va,lower,45,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0282,2016-01-08 16:25:11.324000,2017-06-01 08:03:03.299000
+VAL000238,Jason S. Miyares,Jason S.,,Miyares,,,True,va,lower,82,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0283,2016-01-08 16:25:11.454000,2017-06-01 08:03:03.627000
+VAL000239,Nicholas J. Freitas,Nicholas J.,,Freitas,,,True,va,lower,30,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0279,2016-01-08 16:25:11.482000,2017-06-01 08:03:03.379000
+VAL000240,Steve E. Heretick,Steve E.,,Heretick,,,True,va,lower,79,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0280,2016-01-08 16:25:11.525000,2017-06-01 08:03:03.396000
+VAL000241,Paul E. Krizek,Paul E.,,Krizek,,,True,va,lower,44,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0281,2016-01-08 16:25:11.638000,2017-06-01 08:03:03.250000
+VAL000243,Christopher E. Collins,Christopher E.,,Collins,,,True,va,lower,29,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0277,2016-01-08 16:25:11.688000,2017-06-01 08:03:03.254000
+VAL000244,Lashrecse D. Aird,Lashrecse D.,,Aird,,,True,va,lower,63,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0274,2016-01-08 16:25:11.701000,2017-06-01 08:03:03.311000
+VAL000249,John J. Bell,John J.,,Bell,,,True,va,lower,87,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0275,2016-01-08 16:25:11.749000,2017-06-01 08:03:03.182000
+VAL000252,"Marcia S. ""Cia"" Price","Marcia S. ""Cia""",,Price,,,True,va,lower,95,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0284,2016-01-08 16:25:11.885000,2017-06-01 08:03:03.649000
+VAL000255,"C.E. Cliff Hayes, Jr.",C.E. Cliff,,Hayes,Jr.,,True,va,lower,77,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0285,2017-01-02 07:07:21.553000,2017-06-01 08:03:03.320000
+VAL000257,Michael P. Mullin,Michael P.,,Mullin,,,True,va,lower,93,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0286,2017-01-02 07:07:21.718000,2017-06-01 08:03:03.258000
+VAL000259,"N.D. ""Rocky"" Holcomb III","N.D. ""Rocky""",,Holcomb,III,,True,va,lower,85,Republican,http://memdata.virginiageneralassembly.gov/images/display_image/H0287,2017-01-12 06:37:05.670000,2017-06-01 08:03:03.402000
+VAL000262,Jeffrey M. Bourne,Jeffrey M.,,Bourne,,,True,va,lower,71,Democratic,http://memdata.virginiageneralassembly.gov/images/display_image/H0288,2017-02-09 07:42:05.986000,2017-06-01 08:03:03.767000
+VAL000001,George L Barker,George,L,Barker,,,True,va,upper,39,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/Barker39.jpg,2010-12-02 07:04:38.270000,2017-06-01 08:03:03.573000
+VAL000004,R. Creigh Deeds,R. Creigh,,Deeds,,,True,va,upper,25,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/deeds25.jpg,2010-12-02 07:04:38.285000,2017-06-01 08:03:03.608000
+VAL000005,John S Edwards,John,S,Edwards,,,True,va,upper,21,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/Edwards21.jpg,2010-12-02 07:04:38.288000,2017-06-01 08:03:03.589000
+VAL000006,Emmett W Hanger Jr.,Emmett,W,Hanger,Jr.,,True,va,upper,24,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Hanger24.jpg,2010-12-02 07:04:38.290000,2017-06-01 08:03:03.549000
+VAL000009,Janet D Howell,Janet,D,Howell,,,True,va,upper,32,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/Howell32.jpg,2010-12-02 07:04:38.296000,2017-06-01 08:03:03.553000
+VAL000011,Mamie E. Locke,Mamie,E.,Locke,,,True,va,upper,2,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/Locke2012sm.jpg,2010-12-02 07:04:38.300000,2017-06-01 08:03:03.157000
+VAL000012,L. Louise Lucas,L. Louise,,Lucas,,,True,va,upper,18,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/Lucas2013.jpg,2010-12-02 07:04:38.302000,2017-06-01 08:03:03.568000
+VAL000013,David W Marsden,David,W,Marsden,,,True,va,upper,37,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/Marsden37.jpg,2010-12-02 07:04:38.304000,2017-06-01 08:03:03.583000
+VAL000016,Ryan T McDougle,Ryan,T,McDougle,,,True,va,upper,4,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/McDougle04.jpg,2010-12-02 07:04:38.320000,2017-06-01 08:03:03.540000
+VAL000021,Stephen D Newman,Stephen,D,Newman,,,True,va,upper,23,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Newman23.jpg,2010-12-02 07:04:38.330000,2017-06-01 08:03:03.591000
+VAL000022,Thomas K Norment Jr.,Thomas,K,Norment,Jr.,,True,va,upper,3,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Norment03.jpg,2010-12-02 07:04:38.332000,2017-06-01 08:03:03.547000
+VAL000024,Mark D Obenshain,Mark,D,Obenshain,,,True,va,upper,26,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Obenshain26.jpg,2010-12-02 07:04:38.336000,2017-06-01 08:03:03.551000
+VAL000025,J. Chapman Petersen,J. Chapman,,Petersen,,,True,va,upper,34,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/Petersen34.jpg,2010-12-02 07:04:38.338000,2017-06-01 08:03:03.349000
+VAL000030,Frank M Ruff Jr.,Frank,M,Ruff,Jr.,,True,va,upper,15,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Ruff15.jpg,2010-12-02 07:04:38.362000,2017-06-01 08:03:03.544000
+VAL000031,Richard L Saslaw,Richard,L,Saslaw,,,True,va,upper,35,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/Saslaw35.jpg,2010-12-02 07:04:38.364000,2017-06-01 08:03:03.565000
+VAL000034,Richard H Stuart,Richard,H,Stuart,,,True,va,upper,28,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Stuart28.jpg,2010-12-02 07:04:38.370000,2017-06-01 08:03:03.563000
+VAL000036,Jill Holtzman Vogel,Jill Holtzman,,Vogel,,,True,va,upper,27,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Vogel27.jpg,2010-12-02 07:04:38.374000,2017-06-01 08:03:03.558000
+VAL000037,Frank W Wagner,Frank,W,Wagner,,,True,va,upper,7,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Wagner07.jpg,2010-12-02 07:04:38.376000,2017-06-01 08:03:03.556000
+VAL000056,Charles W. Carrico Sr.,Charles,W,Carrico,Sr.,,True,va,upper,40,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Carrico40.jpg,2010-12-02 07:04:38.420000,2017-06-01 08:03:03.579000
+VAL000061,John A Cosgrove,John,A,Cosgrove,Jr.,,True,va,upper,14,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/cosgrove_john_bw.jpg,2010-12-02 07:04:38.429000,2017-06-01 08:03:03.598000
+VAL000065,Rosalyn R Dance,Rosalyn,R,Dance,,,True,va,upper,16,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/rdance.jpg,2010-12-02 07:04:38.437000,2017-06-01 08:03:03.542000
+VAL000066,Adam P. Ebbin,Adam,P,Ebbin,,,True,va,upper,30,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/Ebbin30.jpg,2010-12-02 07:04:38.439000,2017-06-01 08:03:03.467000
+VAL000093,Lynwood W Lewis Jr.,Lynwood,W,Lewis,Jr.,,True,va,upper,6,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/Lewis.jpg,2010-12-02 07:04:38.514000,2017-06-01 08:03:03.327000
+VAL000143,William M. Stanley Jr.,William M.,,Stanley,Jr.,,True,va,upper,20,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Stanley19.jpg,2011-01-20 01:35:12.514000,2017-06-01 08:03:03.331000
+VAL000148,Richard H. Black,Richard H.,,Black,,,True,va,upper,13,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Black13.jpg,2012-01-16 21:13:29.095000,2017-06-01 08:03:03.338000
+VAL000151,Barbara A. Favola,Barbara A.,,Favola,,,True,va,upper,31,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/FavolaBW2014.png,2012-01-16 21:13:29.168000,2017-06-01 08:03:03.610000
+VAL000153,Bryce E. Reeves,Bryce E.,,Reeves,,,True,va,upper,17,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Reeves.jpg,2012-01-16 21:13:29.424000,2017-06-01 08:03:03.494000
+VAL000182,"A. Benton ""Ben"" Chafin","A. Benton ""Ben""",,Chafin,,,True,va,upper,38,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Chafin38.jpg,2013-11-26 23:00:40.279000,2017-06-01 08:03:03.485000
+VAL000208,Jennifer T. Wexton,Jennifer T.,,Wexton,,,True,va,upper,33,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/Wexton33.jpg,2014-01-25 03:08:45.590000,2017-06-01 08:03:03.601000
+VAL000237,"Bill R. DeSteph, Jr.",Bill R.,,DeSteph,Jr.,,True,va,upper,8,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/DeSteph08.jpg,2016-01-08 16:25:11.402000,2017-06-01 08:03:03.586000
+VAL000242,Jeremy S. McPike,Jeremy S.,,McPike,,,True,va,upper,29,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/McPike29.jpg,2016-01-08 16:25:11.667000,2017-06-01 08:03:02.879000
+VAL000245,Scott A. Surovell,Scott A.,,Surovell,,,True,va,upper,36,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/Surovell36.jpg,2016-01-08 16:25:11.706000,2017-06-01 08:03:02.909000
+VAL000246,"Glen H. Sturtevant, Jr.",Glen H.,,Sturtevant,Jr.,,True,va,upper,10,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Sturtevant10.jpg,2016-01-08 16:25:11.720000,2017-06-01 08:03:02.984000
+VAL000248,Siobhan S. Dunnavant,Siobhan S.,,Dunnavant,,,True,va,upper,12,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Dunnavant12.jpg,2016-01-08 16:25:11.739000,2017-06-01 08:03:03.561000
+VAL000250,Amanda F. Chase,Amanda F.,,Chase,,,True,va,upper,11,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Chase11.jpg,2016-01-08 16:25:11.795000,2017-06-01 08:03:03.593000
+VAL000251,David R. Suetterlein,David R.,,Suetterlein,,,True,va,upper,19,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Sutterlein19.jpg,2016-01-08 16:25:11.845000,2017-06-01 08:03:03.581000
+VAL000254,"Lionell Spruill, Sr.",Lionell,,Spruill,Sr.,,True,va,upper,5,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/Spruill05.jpg,2017-01-02 07:07:21.504000,2017-06-01 08:03:03.483000
+VAL000256,"T. Montgomery ""Monty"" Mason","T. Montgomery ""Monty""",,Mason,,,True,va,upper,1,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/Mason01.jpg,2017-01-02 07:07:21.705000,2017-06-01 08:03:03.352000
+VAL000260,Mark J. Peake,Mark J.,,Peake,,,True,va,upper,22,Republican,http://apps.lis.virginia.gov/senatepics/newbiopics/Peake22.jpg,2017-01-14 06:52:13.344000,2017-06-01 08:03:03.605000
+VAL000261,Jennifer L. McClellan,Jennifer L.,,McClellan,,,True,va,upper,9,Democratic,http://apps.lis.virginia.gov/senatepics/newbiopics/McClellan09.jpg,2017-01-14 06:52:13.562000,2017-06-01 08:03:03.603000
