@@ -26,6 +26,7 @@ class bills:
         self.significance = False
         self.veto = 0
         self.overriden_veto = 0
+        self.passed_location = "Not Passed"
 
 def fill_out():
     bill_sponsors_csv = open("states/virginia/va_bill_sponsors.csv", "r")
@@ -57,6 +58,7 @@ def fill_out():
     bill_value = [1,0,0,0,0]
     veto = False
     overriden_veto = False
+    passed_location = "Not Passed"
     first_line = bill_actions_csv.readline()
     first_line = line.strip().split(',')
     curr_id = first_line[3]
@@ -69,6 +71,7 @@ def fill_out():
         if bill_id in bill_objects:
             current_bill = bill_objects[bill_id]
         else:
+            current_bill.stages = bill_value
             bill = bills()
             bill.bill_number = bill_id
             bill_objects[bill_id] = bill
@@ -147,6 +150,14 @@ def fill_out():
 
         if results4 or results_4 or results4_4 or results4_5 or results4_6 or results4_7 or results4_8 or results4_9 or results4_10 or results4_11 or results4_12 or results4_13 or results4_14 or bill_value[3] == 1:
             bill_value[3] = 1
+            if (results4_5 or results4_6) and current_bill.bill_number[0] == 'S':
+            	current_bill.passed_location = "Passed in House -- introduced in Senate."
+
+            elif (results4_8 or results4_9 or results4_10) and current_bill.bill_number[0] == 'H':
+            	current_bill.passed_location = "Passed in Senate -- introduced in House."
+            else:
+            	current_bill.passed_location = "Passed where introduced"
+
             continue
 
         regex3 = re.compile(r"Committee substitute agreed .+")
@@ -214,11 +225,11 @@ bill_objects = significance(bill_objects)
 
 output2 = open("bills_final.csv", "w")
 line = ""
-line += "bill_number, introduction date, primary sponsor, sponsor_id, introduced, action in committee, action beyond committee, passed chamber, becomes law, vetoed, veto overridden, significance"
+line += "bill_number, introduction date, primary sponsor, sponsor_id, introduced, action in committee, action beyond committee, passed chamber, becomes law, vetoed, veto overridden, passed location, significance"
 output2.write(line + "\n")
 for bill_IDS, final_bill in bill_objects.items():
     lines = ""
-    lines += str(final_bill.bill_number) + "," + str(final_bill.date) + "," + str(final_bill.primary_sponsor.strip('"')) + "," +  str(final_bill.sponsors_ID) + "," + str(final_bill.stages[0]) + "," + str(final_bill.stages[1]) + "," + str(final_bill.stages[2]) + "," + str(final_bill.stages[3]) + "," + str(final_bill.stages[4]) + "," +  str(final_bill.veto) + "," + str(final_bill.overriden_veto) + "," + str(final_bill.significance) + ","
+    lines += str(final_bill.bill_number) + "," + str(final_bill.date) + "," + str(final_bill.primary_sponsor.strip('"')) + "," +  str(final_bill.sponsors_ID) + "," + str(final_bill.stages[0]) + "," + str(final_bill.stages[1]) + "," + str(final_bill.stages[2]) + "," + str(final_bill.stages[3]) + "," + str(final_bill.stages[4]) + "," +  str(final_bill.veto) + "," + str(final_bill.overriden_veto) + "," + str(final_bill.passed_location) + "," + str(final_bill.significance) + ","
     output2.write(lines + "\n")
 
 output2.close()
